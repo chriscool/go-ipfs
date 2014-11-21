@@ -1,5 +1,5 @@
 # ipfs implementation in go.
-[![GoDoc](https://godoc.org/github.com/jbenet/go-ipfs?status.svg)](https://godoc.org/github.com/jbenet/go-ipfs) [![Build Status](https://travis-ci.org/jbenet/go-ipfs.svg?branch=master)](https://travis-ci.org/jbenet/go-ipfs)
+[![GoDoc](https://godoc.org/github.com/jbenet/go-ipfs?status.svg)](https://godoc.org/github.com/jbenet/go-ipfs) [![Build Status](https://travis-ci.org/jbenet/go-ipfs.svg?branch=master)](https://travis-ci.org/jbenet/go-ipfs) [ ![Codeship Status for chriscool/go-ipfs](https://codeship.com/projects/d69e7d50-535d-0132-fce4-5e1d8dbac3c9/status)](https://codeship.com/projects/48926)
 
 Ipfs is a global, versioned, peer-to-peer filesystem. It combines good ideas from
 Git, BitTorrent, Kademlia, SFS, and the Web. It is like a single bittorrent swarm,
